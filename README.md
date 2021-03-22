@@ -1,1 +1,1 @@
-# BOB3
+# BOB3Workshop
